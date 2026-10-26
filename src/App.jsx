@@ -41,9 +41,9 @@ function Floaters({ count = 28, emoji = ["💗", "✨", "💫", "🌸", "💞"] 
 }
 
 const timeline = [
-  { icon: "💬", t: "Month 1 · Only texts", d: "No calls. Just good-morning messages, long paragraphs, voice notes in my head that never got sent. Every ‘seen’ made me wish I had called." },
-  { icon: "🔀", t: "Month 2 · App badalke baat karna", d: "WhatsApp to Instagram to Snapchat and back again. We kept switching apps like the right one would fix the distance. It wasn’t the app. It was me not showing up properly." },
-  { icon: "📹", t: "Month 3 · Video calls", d: "The first video call, seeing your face after so long, was the best part of my whole week. You laughed and I forgot every excuse I had." },
+  { icon: "💬", t: " 1 · Only texts", d: "No calls. Just good-morning messages, long paragraphs, voice notes in my head that never got sent. Every ‘seen’ made me wish I had called." },
+  { icon: "🔀", t: " 2 · App badalke baat karna", d: "WhatsApp to Instagram to Snapchat and back again. We kept switching apps like the right one would fix the distance. It wasn’t the app. It was me not showing up properly." },
+  { icon: "📹", t: " 3 · Video calls", d: "The first video call, seeing your face after so long, was the best part of my whole week. You laughed and I forgot every excuse I had." },
   { icon: "🎬", t: "Google Meet movie nights", d: "Screen shared, bakchodi on both sides, pretending we were on the same bed. That is still my favourite place in the world, even through a screen." },
 ];
 
